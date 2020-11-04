@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AlxAlindayu/task1/static/css/main.6ebf3170.chunk.css",
+    "main.js": "/AlxAlindayu/task1/static/js/main.4c058b47.chunk.js",
+    "main.js.map": "/AlxAlindayu/task1/static/js/main.4c058b47.chunk.js.map",
+    "runtime-main.js": "/AlxAlindayu/task1/static/js/runtime-main.4bc6daca.js",
+    "runtime-main.js.map": "/AlxAlindayu/task1/static/js/runtime-main.4bc6daca.js.map",
+    "static/css/2.3689ad01.chunk.css": "/AlxAlindayu/task1/static/css/2.3689ad01.chunk.css",
+    "static/js/2.373d0a45.chunk.js": "/AlxAlindayu/task1/static/js/2.373d0a45.chunk.js",
+    "static/js/2.373d0a45.chunk.js.map": "/AlxAlindayu/task1/static/js/2.373d0a45.chunk.js.map",
+    "index.html": "/AlxAlindayu/task1/index.html",
+    "static/css/2.3689ad01.chunk.css.map": "/AlxAlindayu/task1/static/css/2.3689ad01.chunk.css.map",
+    "static/css/main.6ebf3170.chunk.css.map": "/AlxAlindayu/task1/static/css/main.6ebf3170.chunk.css.map",
+    "static/js/2.373d0a45.chunk.js.LICENSE.txt": "/AlxAlindayu/task1/static/js/2.373d0a45.chunk.js.LICENSE.txt",
+    "static/media/keyvisual.9b4171f2.png": "/AlxAlindayu/task1/static/media/keyvisual.9b4171f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bc6daca.js",
+    "static/css/2.3689ad01.chunk.css",
+    "static/js/2.373d0a45.chunk.js",
+    "static/css/main.6ebf3170.chunk.css",
+    "static/js/main.4c058b47.chunk.js"
+  ]
+}
